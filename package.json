@@ -53,7 +53,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "4.2.11",
-    "@types/chai-as-promised": "7.1.2",
+    "@types/chai-as-promised": "7.1.4",
     "@types/mocha": "7.0.2",
     "@types/node": "13.13.14",
     "@types/sinon": "9.0.4",
